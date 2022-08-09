@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Js
 - 
 - 
-- 💞️ I’m looking to collaborate on basically nothing ... 😂
+- 💞️ I’m looking to collaborate on nothing to be honest ... 😂
 - 
 -  My twitter profile  : https://twitter.com/antonrejoe  
 

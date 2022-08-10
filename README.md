@@ -12,5 +12,6 @@
 - 
 -  My twitter profile  : https://twitter.com/antonrejoe  
 
+-  My LinkedIn profile : https://www.linkedin.com/in/anton-rejoe-60b81421b/
   
 

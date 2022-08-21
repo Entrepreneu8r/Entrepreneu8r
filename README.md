@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entrepreneu8r&label=Profile%20views&color=0e75b6&style=flat" alt="entrepreneu8r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entrepreneu8r" alt="entrepreneu8r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entrepreneu8r" alt="entrepreneu8r" /></a> </p>  
 
 <p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript ,SASS etc.**
+- 🌱 I’m currently learning **Javascript ,SASS etc.**  <p align="right"> <a ><img src="href="https://github.com/ryo-ma/github-profile-trophy" alt="antonrejoe" /></a> </p>  
 
 - 💬 Ask me about **Web development**
 

@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript ,SASS etc.**  <p align="right"> <a ><img src="href="https://github.com/ryo-ma/github-profile-trophy" alt="antonrejoe" /></a> </p>  
+ <p align="right"> <img src="https://github.com/ryo-ma/github-profile-trophy" alt="antonrejoe" /></a> 
+
+- 🌱 I’m currently learning **Javascript ,SASS etc.** </p>  
 
 - 💬 Ask me about **Web development**
 

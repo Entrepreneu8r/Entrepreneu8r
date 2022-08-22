@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript ,SASS etc.** </p>    <p align="right"> <img src="https://i.imgur.com/C60d3vF.gif" alt="antonrejoe" /></a> 
+<p>- 🌱 I’m currently learning **Javascript ,SASS etc.** </p>   
 
 - 💬 Ask me about **Web development**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Rejoe</h1>
-<h3 align="center">A big fan of <span><img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt = "antonrejoe" width=20px height =20px></span></h3>
+<h3 align="center">A big fan of everything I like</h3>
 
 <br>
 <p>

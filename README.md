@@ -9,7 +9,7 @@
 
 <div align ='center' > 🔥 I’m currently learning <em> Javascript ,SASS etc.</em>  </div>
 <div align ='center'>  🤝 How to reach me <em>antonrejoe@gmail.com</em></div>
-<div align ='center' color = 'red'>  💡 Ask me about <em>Web development</em>   </div><hr>
+<div align ='center' font-color = 'red'>  💡 Ask me about <em>Web development</em>   </div><hr>
 
  
 

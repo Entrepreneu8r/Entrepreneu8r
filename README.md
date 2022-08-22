@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p>
 
-<span> - 🌱 I’m currently learning <em>Javascript ,SASS etc.</em>  </span>
+<span> - 🌱 I’m currently learning <em> Javascript ,SASS etc.</em>  </span>
+<span>- 💬 Ask me about <em>Web development</em> </span>
+<span>- 📫 How to reach me **antonrejoe@gmail.com**  </span>
 
  
 
-- 💬 Ask me about **Web development**
 
-- 📫 How to reach me **antonrejoe@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

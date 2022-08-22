@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anton Rejoe</h1>
 <h3 align="center">A big fan of <span><img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt = "antonrejoe" width=20px height =20px></span></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entrepreneu8r&label=Profile%20views&color=0e75b6&style=flat" alt="entrepreneu8r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entrepreneu8r" alt="entrepreneu8r" /></a> </p>  
+<span>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=entrepreneu8r&label=Profile%20views&color=0e75b6&style=flat" alt="entrepreneu8r" /> </p>
+ 
+ <p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p>
+ 
+ <hr>
 
-<p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p><hr>
+</span>
+
+
+
 
 <div align ='center' > 🔥 I’m currently learning <em> Javascript ,SASS etc.</em>  </div>
 <div align ='center'>  🤝 How to reach me <em>antonrejoe@gmail.com</em></div>

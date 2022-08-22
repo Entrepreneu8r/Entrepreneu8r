@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Rejoe</h1>
-<h3 align="center">A big fan of <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt = "antonrejoe" width=20px height =20px></h3>
+<h3 align="center">A big fan of </h3><img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt = "antonrejoe" width=20px height =20px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entrepreneu8r&label=Profile%20views&color=0e75b6&style=flat" alt="entrepreneu8r" /> </p>
 

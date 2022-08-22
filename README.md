@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/antonrejoe" target="blank"><img src="https://img.shields.io/twitter/follow/antonrejoe?logo=twitter&style=for-the-badge" alt="antonrejoe" /></a> </p>
 
-<div align ='center' > - 🌱 I’m currently learning <em> Javascript ,SASS etc.</em>  </div>
-<div align ='center'> - 📫 How to reach me **antonrejoe@gmail.com** </div>
-<div align ='center'> - 💬 Ask me about <em>Web development</em>   </div>
+<div align ='center' > - 🔥 I’m currently learning <em> Javascript ,SASS etc.</em>  </div>
+<div align ='center'> - 🤝 How to reach me **antonrejoe@gmail.com** </div>
+<div align ='center'> - 💡 Ask me about <em>Web development</em>   </div>
 
  
 
